@@ -12,6 +12,6 @@ if __name__ == '__main__':
   test.test_pair_to_number('Black', 'Orange', 12)
   test.test_pair_to_number('Violet', 'Slate', 25)
   test.test_pair_to_number('Red', 'Orange', 7)
-  test.get_user_manual(25)
+  test.test_user_manual_length(25)
   print(x)
   print('Done :)')
