@@ -1,4 +1,4 @@
-import color_code as g
+import color_codes as g
 
 def get_color_from_pair_number(pair_number):
   zero_based_pair_number = pair_number - 1
